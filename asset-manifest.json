@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chatapp-api/static/css/main.cab12799.css",
+    "main.js": "/chatapp-api/static/js/main.79cbd883.js",
+    "static/media/whatsapp-icon.svg": "/chatapp-api/static/media/whatsapp-icon.d7ef159fce77028a79286d9eab3ace0f.svg",
+    "index.html": "/chatapp-api/index.html",
+    "main.cab12799.css.map": "/chatapp-api/static/css/main.cab12799.css.map",
+    "main.79cbd883.js.map": "/chatapp-api/static/js/main.79cbd883.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cab12799.css",
+    "static/js/main.79cbd883.js"
+  ]
+}
